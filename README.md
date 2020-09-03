@@ -1,3 +1,4 @@
 # Problem-Solving-in-JavaScript
 
-![alt text](10 Days of JavaScript/10daysOfJsBadge.png)
+![alt text](https://github.com/2apreety18/Problem-Solving-in-JavaScript/blob/master/10%20Days%20of%20JavaScript/10daysOfJsBadge.png)
+
